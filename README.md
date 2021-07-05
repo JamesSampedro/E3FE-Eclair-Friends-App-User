@@ -1,4 +1,4 @@
-# Eclair-Friends-App - Excel weekly sheet update inside
+# Eclair-Friends-App - Excel weekly sheet update inside (ON THE SERVER SIDE REPO)
 
 Members:
 
