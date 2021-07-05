@@ -30,3 +30,5 @@ Sampedro, James Paul
 - API
 - Studying for designs
 - Updated Excel weekly report
+
+# FINALS FINISHED
